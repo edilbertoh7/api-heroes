@@ -530,7 +530,29 @@
           "gitrepo": "https://github.com/edilbertoh7/todo-list",
           "v_previa": "https://lista-de-tareasapp.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fto-do.png?alt=media&token=4a98ddca-a970-451d-993b-bb3767ab7dea",
-          "clase":""
+          "clase":"",
+          "Tecnologias":[
+            {
+              "id":"1",
+              "nomb_tec":"HTML",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fhtml1.png?alt=media&token=39f43d79-f694-410f-9d67-ed7f29127b60"
+            },
+            {
+              "id":"2",
+              "nomb_tec":"css",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fcss3.png?alt=media&token=63c42447-36fc-499f-9690-44e8e5c09b02"
+            },
+            {
+              "id":"3",
+              "nomb_tec":"React",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Freact.png?alt=media&token=b85d8e3a-b991-49af-bde4-b902aff9c135"
+            },
+            {
+              "id":"4",
+              "nomb_tec":"JavaScript",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fdescarga.png?alt=media&token=529ebd35-15dd-4696-b927-6e844b055961"
+            }
+          ]
         },
         {
           "id":"2",
@@ -538,7 +560,29 @@
           "gitrepo": "https://github.com/edilbertoh7/heroes-marvel.dc",
           "v_previa": "https://app-heroes-marvel-dc.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fheroes.png?alt=media&token=ce90b5b9-b1a9-4c44-97af-5ec3081e563e",
-          "clase":""
+          "clase":"",
+          "Tecnologias":[
+            {
+              "id":"1",
+              "nomb_tec":"HTML",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fhtml1.png?alt=media&token=39f43d79-f694-410f-9d67-ed7f29127b60"
+            },
+            {
+              "id":"2",
+              "nomb_tec":"Tailwind",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Ftailwind.png?alt=media&token=119c37d9-82aa-4dbb-a49d-5c667edd204d"
+            },
+            {
+              "id":"3",
+              "nomb_tec":"React",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Freact.png?alt=media&token=b85d8e3a-b991-49af-bde4-b902aff9c135"
+            },
+            {
+              "id":"4",
+              "nomb_tec":"JavaScript",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fdescarga.png?alt=media&token=529ebd35-15dd-4696-b927-6e844b055961"
+            }
+          ]
         },
         {
           "id":"3",
@@ -546,7 +590,29 @@
           "gitrepo": "https://github.com/edilbertoh7/App-clima",
           "v_previa": "https://myclima-pp.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fapp-clima.png?alt=media&token=d3dede26-bcaa-49b7-8fba-24a91d1076c3",
-          "clase":"ml-16"
+          "clase":"ml-16",
+          "Tecnologias":[
+            {
+              "id":"1",
+              "nomb_tec":"HTML",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fhtml1.png?alt=media&token=39f43d79-f694-410f-9d67-ed7f29127b60"
+            },
+            {
+              "id":"2",
+              "nomb_tec":"Tailwind",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Ftailwind.png?alt=media&token=119c37d9-82aa-4dbb-a49d-5c667edd204d"
+            },
+            {
+              "id":"3",
+              "nomb_tec":"React",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Freact.png?alt=media&token=b85d8e3a-b991-49af-bde4-b902aff9c135"
+            },
+            {
+              "id":"4",
+              "nomb_tec":"TypeScypt",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2FTypescript.png?alt=media&token=fd1c7188-86ed-4886-9cc1-0998b6f8b04a"
+            }
+          ]
         },
         {
           "id":"4",
@@ -554,7 +620,29 @@
           "gitrepo": "https://github.com/edilbertoh7/app-contador",
           "v_previa": "https://contador-app.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fcontador.png?alt=media&token=521cb546-48d8-409b-8048-39e73bf2e992",
-          "clase":"ml-16"
+          "clase":"ml-16",
+          "Tecnologias":[
+            {
+              "id":"1",
+              "nomb_tec":"HTML",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fhtml1.png?alt=media&token=39f43d79-f694-410f-9d67-ed7f29127b60"
+            },
+            {
+              "id":"2",
+              "nomb_tec":"css",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fcss3.png?alt=media&token=63c42447-36fc-499f-9690-44e8e5c09b02"
+            },
+            {
+              "id":"3",
+              "nomb_tec":"react",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Freact.png?alt=media&token=b85d8e3a-b991-49af-bde4-b902aff9c135"
+            },
+            {
+              "id":"4",
+              "nomb_tec":"JavaScript",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fdescarga.png?alt=media&token=529ebd35-15dd-4696-b927-6e844b055961"
+            }
+          ]
         },
         {
           "id":"5",
@@ -562,12 +650,35 @@
           "gitrepo": "https://github.com/edilbertoh7/landing-page",
           "v_previa": "https://www.edilbertoherreradev.com",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Flanding.png?alt=media&token=7cce7d26-5d01-4e74-8c6b-c24c632c1478",
-          "clase":"ml-16"
+          "clase":"ml-16",
+          "Tecnologias":[
+            {
+              "id":"1",
+              "nomb_tec":"HTML",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fhtml1.png?alt=media&token=39f43d79-f694-410f-9d67-ed7f29127b60"
+            },
+            {
+              "id":"2",
+              "nomb_tec":"React",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Freact.png?alt=media&token=b85d8e3a-b991-49af-bde4-b902aff9c135"
+            },
+            {
+              "id":"3",
+              "nomb_tec":"JavaScript",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fdescarga.png?alt=media&token=529ebd35-15dd-4696-b927-6e844b055961"
+            },            
+            {
+              "id":"4",
+              "nomb_tec":"Tailwind",
+              "url":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Ftailwind.png?alt=media&token=119c37d9-82aa-4dbb-a49d-5c667edd204d"
+            }
+
+          ]
         }
       ],
       "redes":[
         { "id":"1",
-          "url":"https://wa.me/573178243199?text=Hola%20Soy%20Desarrollador%20web%20deja%20tu%20mensaja%20y%20me%20comunicate%20contigo%20lo%20mas%20pronto%20posible",
+          "url":"https://wa.me/573178243199?text=Hola%20Me%20interesa%20tu%20trabajo%20por%20favor%20contactame%20por%20este%20medio",
           "logo":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fwapp1.webp?alt=media&token=703646c8-302c-49ce-a7b5-3671a63fc400",
           "clase":""
         },
