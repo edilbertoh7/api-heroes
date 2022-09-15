@@ -560,7 +560,7 @@
           "id":"5",
           "nombre": "Landing page",
           "gitrepo": "https://github.com/edilbertoh7/landing-page",
-          "v_previa": "",
+          "v_previa": "https://www.edilbertoherreradev.com",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Flanding.png?alt=media&token=7cce7d26-5d01-4e74-8c6b-c24c632c1478",
           "clase":"ml-16"
         }
