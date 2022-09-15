@@ -511,7 +511,7 @@
           "anio": "2022 - 2022",
           "empresa": "Ubits Learning Solution",
           "cargo": "Junior Software Engineer",
-          "descripcion": "Desarrollar y mantener componentes de infraestructura como código CDK en AWS haciendo uso del lenguaje Python para facilitar  la integracion de la compañia con las diferentes entidades que adquieren su portafolio de servicios.",
+          "descripcion": "Realizar implementaciones haciendo uso de infraestructura CDK AWS haciendo uso del leguage python.",
           "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fubits.png?alt=media&token=4b0d150b-563c-4291-90e2-e677ca6c7fec"
         },
         {
@@ -519,7 +519,7 @@
           "anio": "2019 - 2022",
           "empresa": "Tecnologias Sinergia  ",
           "cargo": "Desarrollador Full Stack",
-          "descripcion": "Analizar diseñar y desarrollar componentes de software de acuerdo con los lineamientos y normas establecidas por las entidades del sector salud y tributario, de igual manera realizar actualizaciones de software de acuerdo a las normatividades que adopten los entes que regulan el sector salud brindando soluciones a los requerimientos generados por el cliente.",
+          "descripcion": "Desarrollar componentes de software acorde a los liuneamiento estableciso por el sector salud y tributario",
           "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fsinergia.png?alt=media&token=d08e0f4c-5c49-4d69-b935-184d183cd14c"
         }
       ],
@@ -538,7 +538,7 @@
           "gitrepo": "https://github.com/edilbertoh7/heroes-marvel.dc",
           "v_previa": "https://app-heroes-marvel-dc.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fheroes.png?alt=media&token=ce90b5b9-b1a9-4c44-97af-5ec3081e563e",
-          "clase":"ml-16"
+          "clase":""
         },
         {
           "id":"3",
