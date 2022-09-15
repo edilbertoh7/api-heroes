@@ -439,6 +439,159 @@
       "editorial": "DC  Comics",
       "tipo": "heroes-dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/dc%2Fmartian-j_oon.jpg?alt=media&token=bb518aee-d4a1-417b-8621-0b4cb0e02dd7"
+    },
+    {
+      "id": "edilberto",
+      "top": "1",
+      "nombre": "edilberto herrera",
+      "poderes": "programar - mucho",
+      "estreno": "novienbre de 1980",
+      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel 🤝",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=30b44c3c-c7bb-4ee2-95fa-4914a3d9ca74"
+    },
+    {
+      "id": "edilberto1",
+      "top": "1",
+      "nombre": "edilberto MAN",
+      "poderes": "programar - Telaraña",
+      "estreno": "novienbre de 1980",
+      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=30b44c3c-c7bb-4ee2-95fa-4914a3d9ca74"
+    }
+  ],
+  "landing": [
+    {
+      "id": "edy",
+      "nombre": "edilberto herrera",
+      "profesion": "desarrollador",
+      "estudios": [
+        {
+          "id": 1,
+          "anio": "2022",
+          "titulo": "Diplomado en desarrollo front-end",
+          "descripcion": "Desarrollo de aplicaciones web orientadas alFront-End haciendo uso de la biblioteca dedesarrollo React js",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Ffimlm.webp?alt=media&token=389cfee4-1485-4977-92fb-90e07547c47b"
+        },
+        {
+          "id": 2,
+          "anio": "2022",
+          "titulo": "Ingeniero de sistemas",
+          "descripcion": "Carrera universitaria  de ingeniería de sistemasUniversidad del Tolima",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fut.png?alt=media&token=d25bc8fa-6a12-4793-9716-6277575b76c6"
+        },
+        {
+          "id": 3,
+          "anio": "2020",
+          "titulo": "Tecnólogo en gestión d bases de datos",
+          "descripcion": "Carrera tecnológica  de gestión en bases de datosUniversidad del Tolima",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fut.png?alt=media&token=d25bc8fa-6a12-4793-9716-6277575b76c6"
+        },
+        {
+          "id": 4,
+          "anio": "2014",
+          "titulo": "Diseño web conAdobe Dreamweaver",
+          "descripcion": "Formacion mediada por el Servicio Nacional de Aprendizaje SENA",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fsena.png?alt=media&token=06efdf61-8536-4f92-8a3a-a56532f3c941"
+        },
+        {
+          "id": 5,
+          "anio": "2004",
+          "titulo": "Técnico en sistemas",
+          "descripcion": "Carrera técnica Instituto técnico Master web",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fmaster.jpg?alt=media&token=6e370c1c-4699-4406-874a-9e97f435556a"
+        }
+      ],
+      "explaboral": [
+        {
+          "id": "1",
+          "anio": "2022 - 2022",
+          "empresa": "Ubits Learning Solution",
+          "cargo": "Junior Software Engineer",
+          "descripcion": "Desarrollar y mantener componentes de infraestructura como código CDK en AWS haciendo uso del lenguaje Python para facilitar  la integracion de la compañia con las diferentes entidades que adquieren su portafolio de servicios.",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fubits.png?alt=media&token=4b0d150b-563c-4291-90e2-e677ca6c7fec"
+        },
+        {
+          "id": "2",
+          "anio": "2019 - 2022",
+          "empresa": "Tecnologias Sinergia  ",
+          "cargo": "Desarrollador Full Stack",
+          "descripcion": "Analizar diseñar y desarrollar componentes de software de acuerdo con los lineamientos y normas establecidas por las entidades del sector salud y tributario, de igual manera realizar actualizaciones de software de acuerdo a las normatividades que adopten los entes que regulan el sector salud brindando soluciones a los requerimientos generados por el cliente.",
+          "logo": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fsinergia.png?alt=media&token=d08e0f4c-5c49-4d69-b935-184d183cd14c"
+        }
+      ],
+      "portafolio": [
+        {
+          "id":"1",
+          "nombre": "lista de tareas",
+          "gitrepo": "https://github.com/edilbertoh7/todo-list",
+          "v_previa": "https://lista-de-tareasapp.netlify.app",
+          "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fto-do.png?alt=media&token=4a98ddca-a970-451d-993b-bb3767ab7dea",
+          "clase":""
+        },
+        {
+          "id":"2",
+          "nombre": "App SuperHeroes",
+          "gitrepo": "https://github.com/edilbertoh7/heroes-marvel.dc",
+          "v_previa": "https://app-heroes-marvel-dc.netlify.app",
+          "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fheroes.png?alt=media&token=ce90b5b9-b1a9-4c44-97af-5ec3081e563e",
+          "clase":"ml-16"
+        },
+        {
+          "id":"3",
+          "nombre": "Aplicación del clima",
+          "gitrepo": "https://github.com/edilbertoh7/App-clima",
+          "v_previa": "https://myclima-pp.netlify.app",
+          "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fapp-clima.png?alt=media&token=d3dede26-bcaa-49b7-8fba-24a91d1076c3",
+          "clase":"ml-16"
+        },
+        {
+          "id":"4",
+          "nombre": "Contador",
+          "gitrepo": "https://github.com/edilbertoh7/app-contador",
+          "v_previa": "https://contador-app.netlify.app",
+          "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fcontador.png?alt=media&token=521cb546-48d8-409b-8048-39e73bf2e992",
+          "clase":"ml-16"
+        },
+        {
+          "id":"5",
+          "nombre": "Landing page",
+          "gitrepo": "https://github.com/edilbertoh7/landing-page",
+          "v_previa": "",
+          "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Flanding.png?alt=media&token=7cce7d26-5d01-4e74-8c6b-c24c632c1478",
+          "clase":"ml-16"
+        }
+      ],
+      "redes":[
+        { "id":"1",
+          "url":"https://wa.me/573178243199?text=Hola%20Soy%20Desarrollador%20web%20deja%20tu%20mensaja%20y%20me%20comunicate%20contigo%20lo%20mas%20pronto%20posible",
+          "logo":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fwapp1.webp?alt=media&token=703646c8-302c-49ce-a7b5-3671a63fc400",
+          "clase":""
+        },
+        {
+          "id":"2",
+          "url":"https://www.instagram.com/edilbertoh7",
+          "logo":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Finstagram.webp?alt=media&token=e3fa6af0-db1c-4328-9ddd-dd5057c9e086",
+          "clase":""
+         
+        },
+        {
+          "id":"3",
+          "url":"https://www.facebook.com/edilberto.herrera.1654",
+          "logo":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fface.png?alt=media&token=ee11cafc-3059-4ee4-a525-29c12e978e82",
+          "clase":""
+        },
+        {
+          "id":"4",
+          "url":"https://twitter.com/edilbertoh7",
+          "logo":"https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2FTwitter.webp?alt=media&token=9d4db1c9-3949-479f-b038-a175b64e1980",
+          "clase":"twit"
+        }
+      ]
+
     }
   ]
 }
