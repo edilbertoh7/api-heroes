@@ -616,7 +616,7 @@
         },
         {
           "id":"4",
-          "nombre": "Contador",
+          "nombre": "Contador..",
           "gitrepo": "https://github.com/edilbertoh7/app-contador",
           "v_previa": "https://contador-app.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fcontador.png?alt=media&token=521cb546-48d8-409b-8048-39e73bf2e992",
